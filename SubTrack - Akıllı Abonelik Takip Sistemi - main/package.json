@@ -1,0 +1,10 @@
+{
+  "name": "subtracker",
+  "version": "1.0.0",
+  "description": "SubTracker - Abonelik Yönetim Sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true
+}
