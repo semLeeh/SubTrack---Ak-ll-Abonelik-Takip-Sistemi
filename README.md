@@ -188,7 +188,7 @@ Bu proje, akademik gereksinimler kapsamında veya kişisel portfolyo amacıyla g
 
 - **Full Name (Ad Soyad):** Semih Yılmaz
 - **Student Number (Öğrenci Numarası):** 24010501128
-- **GitHub Repository:** https://github.com/canyurtgun/SubTrack---Abonelik-Takip-Sistemi
+- **GitHub Repository:** https://github.com/semLeeh/SubTrack---Ak-ll-Abonelik-Takip-Sistemi
 
 ---
 
